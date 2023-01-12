@@ -43,7 +43,7 @@
   "deprecated": false,
   "description": "Node Bittrex API - asynchronous node.js library for the Bittrex API https://bittrex.com/",
   "devDependencies": {
-    "mocha": "^3.3.0"
+    "mocha": "^10.2.0"
   },
   "engines": {
     "node": ">=0.10"
